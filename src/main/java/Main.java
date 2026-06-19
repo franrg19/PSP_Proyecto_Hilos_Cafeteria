@@ -1,3 +1,5 @@
+// es la clase principal que lanza la app
+
 public class Main {
     public static void main(String[] args) {
         DepositoCafes depositoCafes = new DepositoCafes(5);

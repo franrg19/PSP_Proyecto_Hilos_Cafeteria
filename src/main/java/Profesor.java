@@ -1,6 +1,6 @@
 public class Profesor extends Thread{
 
-    //La clase profesor será la consumidora
+    //La clase profesor será la consumidora del cafe
     private String nombre;
     private DepositoCafes deposito;
     private int cafesAConsumir;
